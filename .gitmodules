@@ -1,0 +1,6 @@
+[submodule "extern/deeyou"]
+	path = extern/deeyou
+	url = git@github.com:dmitrii-ubskii/deeyou.git
+[submodule "extern/ncursespp"]
+	path = extern/ncursespp
+	url = git@github.com:dmitrii-ubskii/ncursespp.git
