@@ -1,0 +1,5 @@
+= Curses-based version of wordle
+
+image::sample.gif[Sample]
+
+https://www.nytimes.com/games/wordle/index.html[Original wordle (now on the NY Times website).]
